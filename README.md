@@ -86,7 +86,7 @@ Project Structure
 
 <img src="https://avatars1.githubusercontent.com/u/148344?s=460&u=0f032b94dd8f16379189b0388b4f7704fbf6d65b&v=4" width="50"/>
 
-###João Gabriel Lima
+### João Gabriel Lima
  
 [Linkedin: @joaogabriellima/](https://www.linkedin.com/in/joaogabriellima/)
 
