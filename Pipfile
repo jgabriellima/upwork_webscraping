@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "*"
+selenium = "*"
+webdriver-manager = "*"
+beautifulsoup4 = "*"
+pydantic = "*"
+
+[dev-packages]
+pycodestyle = "*"
+handsdown = "*"
+pylint = "*"
+
+[requires]
+python_version = "3.7"
