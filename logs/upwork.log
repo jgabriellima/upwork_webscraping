@@ -1,0 +1,84 @@
+2020-12-07 21:44:51,383 check_device_authorization_login: False
+2020-12-07 21:45:17,286 check_device_authorization: True
+2020-12-07 21:45:22,391 check_re_enter_password_screen: False
+2020-12-07 21:45:22,516 {
+    "id": "935632205126471680",
+    "account": "joaogabriellima",
+    "employer": null,
+    "full_name": "Joao Lima",
+    "first_name": "Joao",
+    "last_name": "L.",
+    "email": "j******ng@gmail.com",
+    "phone_number": "+55 48991302289",
+    "birth_date": null,
+    "picture_url": "https://www.upwork.com/profile-portraits/c1eOEZIzOGPANblMBQRhUAh6vnYlDtDk8EzFQ1zK_IXUHBCDL_jsxiK6emfI8dbCtu",
+    "address_line1": "Rodovia Amaro Antnio Viira, 2463",
+    "address_line2": "Solar de Francavilla, Ap 303 B",
+    "address_state": "SC",
+    "address_postal_code": "88034-102",
+    "address_country": "Brazil",
+    "address_city": "florianopolis",
+    "ssn": null,
+    "marital_status": null,
+    "gender": null,
+    "employments": [
+        {
+            "id": null,
+            "account": null,
+            "employer": "Bloom Marketing",
+            "status": null,
+            "type": null,
+            "job_title": "Marketing Assistant",
+            "platform_user_id": null,
+            "hire_datetime": "January 2019",
+            "termination_datetime": "Present",
+            "termination_reason": null
+        },
+        {
+            "id": null,
+            "account": null,
+            "employer": "Citrin Cooperman & Company, LLP",
+            "status": null,
+            "type": null,
+            "job_title": "Senior Engineer",
+            "platform_user_id": null,
+            "hire_datetime": "January 2012",
+            "termination_datetime": "June 2014",
+            "termination_reason": null
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "Fluent"
+        },
+        {
+            "name": "Portuguese Sign Language",
+            "level": "Native or Bilingual"
+        }
+    ],
+    "others": [
+        {
+            "title": "Experience 2",
+            "description": "Other Experience Description 2 Other Experience Description 2 Other Experience Description 2 Other Experience Description 2 Other Experience Description 2 Other Experience Description 2\u2026moreShow more textOther Experience Description 2 Other Experience Description 2 Other Experience Description 2 Other Experience Description 2 Other Experience Description 2 Other Experience Description 2lessShow less textOther Experience Description 2 Other Experience Description 2 Other Experience Description 2 Other Experience Description 2 Other Experience Description 2 Other Experience Description 2"
+        },
+        {
+            "title": "Experiences Here",
+            "description": "Other Experiences Description Here Other Experiences Description Here Other Experiences Description Here Other Experiences Description Here Other Experiences Description Here Other Experiences Description Here\u2026moreShow more textOther Experiences Description Here Other Experiences Description Here Other Experiences Description Here Other Experiences Description Here Other Experiences Description Here Other Experiences Description HerelessShow less textOther Experiences Description Here Other Experiences Description Here Other Experiences Description Here Other Experiences Description Here Other Experiences Description Here Other Experiences Description Here"
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "Google",
+        "Python Fire",
+        "C#"
+    ],
+    "price": "$300.00/hr",
+    "title": "Senior Full Stack Engineer",
+    "status": "AvailableMore",
+    "avaibility": "than 30 hrs/week",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+    "timezone": "UTC-03:00 E Argentina (BA, DF, SC, TF)",
+    "updated": null,
+    "profile_url": "https://www.upwork.com/freelancers/~012daea877464713b2?viewMode=1"
+}
